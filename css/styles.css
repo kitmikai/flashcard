@@ -1,4 +1,22 @@
-.footer {
+/* Top Container */
+.top-container {
+    background: url(/img/showcase.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+}
+
+.btn {
+    background: var(--dark);
+    color: var(--light);
+    padding: 0.6rem 1.3rem;
+    text-decoration: none;
+    border: 0;
+}
+
+/* Footer */
+footer {
     margin-top: 2rem;
     text-align: center;
     padding: 1rem;
