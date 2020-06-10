@@ -21,3 +21,36 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+.card-groups {
+    color: red;
+}
+
+.card {
+    width: 150px;
+    height: 220px;
+    transform-style: preserve-3d;
+    transition: all 0.5s ease;
+    background: yellow;
+  }
+  
+  .card:hover{
+    transform: rotateY(180deg);
+  }
+  
+  .front{
+    width: 150px;
+    height: 220px;
+    backface-visibility: hidden;
+    background: #ffc728;
+    color: #333;
+  }
+  
+  .back{
+     width: 150px;
+    height: 220px;
+    backface-visibility: hidden;
+    background: #fafafa;
+    color: #333;
+    transform:rotate(180deg);
+  }
