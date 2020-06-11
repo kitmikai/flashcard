@@ -25,16 +25,15 @@ footer {
 .card-groups {
     color: red;
     display: grid;
-    grid-gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 
 .card {
-    width: 250px;
+    width: 175px;
     height: 250px;
     transform-style: preserve-3d;
     transition: all 0.5s ease;
-    
 }
   
 .card:hover{
@@ -51,7 +50,6 @@ footer {
     text-align: center;
     padding: 50px 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
     font-size: 1.1rem;
     font-weight: bold;
 }
@@ -66,16 +64,7 @@ footer {
     text-align: center;
     padding: 50px 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    
     font-size: 0.966rem;
     font-weight: bold;
     transform:rotateY(180deg);
-}
-
-.card {
-    width: 150px;
-    height: 220px;
-    transform-style: preserve-3d;
-    transition: all 0.5s ease;
-    background: yellow;
 }
