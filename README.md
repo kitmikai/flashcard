@@ -3,7 +3,7 @@
  Practice jQuery basics by creating a website that hides/shows various elements, and contains definitions of common jQuery and JavaScript terms.
 
 ## Demo
-The app has been published on Github pages, [**check it out!**](https://kitmikai.github.io/flashcards)
+The app has been published on Github pages, [**check it out!**](https://kitmikai.github.io/flashcard)
 
 ## Installation
 * Create a folder in your computer
