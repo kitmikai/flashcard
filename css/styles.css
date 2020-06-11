@@ -1,6 +1,6 @@
 /* Top Container */
 .top-container {
-    background: url(/img/showcase.jpg);
+    background: url(../img/showcase.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -27,7 +27,7 @@ footer {
     display: grid;
     grid-gap: 15px;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    background-image: url(/img/pic3.jpg);
+    background-image: url(../img/pic3.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
