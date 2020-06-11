@@ -23,9 +23,10 @@ The app has been published on Github pages, [**check it out!**](https://kitmikai
 
 * [**Joanna Kosinska**](https://unsplash.com/photos/1_CMoFsPfso)
 
-## Useful resources
+## Useful Resources
 * [**jQuery Tutorial For Beginners | Developing User Interface (UI) Using JQuery | Edureka**](https://www.youtube.com/watch?v=2OMzGhlIZpg)
 * [**JavaScript object creation patterns tutorial - factory, constructor pattern, prototype pattern**](https://youtu.be/xizFJHKHdHw)
+* [**CSS Flip Card Effect**](https://youtu.be/OV8MVmtgmoY)
 
 ## Author
 Timothy Matara 
